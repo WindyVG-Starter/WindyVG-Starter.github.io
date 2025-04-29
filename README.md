@@ -1,6 +1,7 @@
-### title: Windy's Archive Codes.
+# title: Windy's Archive Codes.
 
 description: This place is recorded of windy's code projects she has done in 2024-2025, or probably more to come later on.
 
-
+## Windy's weather show
+This is my weather app! 
 ![Weather_Image](https://github.com/user-attachments/assets/bbaf9a31-b463-437b-a364-a7a7dd993039)
