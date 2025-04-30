@@ -16,3 +16,8 @@ The textbook that I was assigned to read, C# Nutshell, by Joseph Albahari, had a
 ![Screenshot 2025-04-29 212806](https://github.com/user-attachments/assets/8d4bf884-a5f0-4d1c-8605-bfb9c404abb0)
 ##### Questions: Were there a technical detail you think were good for this project?
 One technical detail is the rondom number generator, located in public void PriceFlutuation(). What it does is by the name, automatically pulls numbers from the code and showcase it by another code.
+
+##### More images incoming!
+![Screenshot 2025-04-29 212825](https://github.com/user-attachments/assets/75c401cb-c2fd-464a-81a6-839440bd5d34)
+![Screenshot 2025-04-29 212819](https://github.com/user-attachments/assets/5f92918c-ecb0-4c07-870c-99919ddb403b)
+
