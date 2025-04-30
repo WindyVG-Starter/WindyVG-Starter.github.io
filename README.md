@@ -1,8 +1,5 @@
 # title: Windy's Archive Codes.
-
 description: This place is record of windy's code projects she has done in 2024-2025, or probably more to come later on.
-
-
 
 
 ## Windy's weather show
