@@ -7,4 +7,6 @@ This is my weather app!
 
 ##### Questions: What does it do?
 My weather app can pull data out from OpenWeatherMap, using my API keys.
+##### Questions: What are some cool features of your weather app?
+
 ![Weather_Image](https://github.com/user-attachments/assets/bbaf9a31-b463-437b-a364-a7a7dd993039)    
