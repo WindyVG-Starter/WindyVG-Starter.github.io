@@ -21,3 +21,8 @@ One technical detail is the rondom number generator, located in public void Pric
 ![Screenshot 2025-04-29 212825](https://github.com/user-attachments/assets/75c401cb-c2fd-464a-81a6-839440bd5d34)
 ![Screenshot 2025-04-29 212819](https://github.com/user-attachments/assets/5f92918c-ecb0-4c07-870c-99919ddb403b)
 
+
+
+___________________________________________________________________________________________________________________________________________________________
+## Windy's CardGame
+
