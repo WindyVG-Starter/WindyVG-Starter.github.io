@@ -14,3 +14,4 @@ ________________________________________________________________________________
 ## Windy's Stockholders
 The textbook that I was assigned to read, C# Nutshell, by Joseph Albahari, had a modified example that we focused on building on. Using the starting code from my Professor's GitHub. This project shows lists of stocks with different prices, there is the old and new price, that randomly changes over times. Then afterword, the system will spit out the changes information of the prices.
 ![Screenshot 2025-04-29 212806](https://github.com/user-attachments/assets/8d4bf884-a5f0-4d1c-8605-bfb9c404abb0)
+##### Questions: Were there a technical detail you think were good for this project?
