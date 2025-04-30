@@ -1,8 +1,9 @@
 # title: Windy's Archive Codes.
-description: This place is record of windy's code projects she has done in 2024-2025, or probably more to come later on.
+Description: This place records and holds Windy's code projects she has done in 2024-2025, or probably more to come later on.
 
 
-## Windy's weather show
+## Windy's Weather Show
 This is my weather app! 
-+ This project was created in C#, using my API
++ Questions: What does it do?
+      What ir does 
 ![Weather_Image](https://github.com/user-attachments/assets/bbaf9a31-b463-437b-a364-a7a7dd993039)    
