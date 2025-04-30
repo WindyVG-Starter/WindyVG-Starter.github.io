@@ -3,7 +3,7 @@ Description: This place records and holds Windy's code projects she has done in 
 
 _____________________________________________________________________________________________________________________________________________________________
 ## Windy's Weather Show
-This is my weather app! 
+This is my weather app! This project is about using my console responding to the XML, that their job is to load the current weather. 
 
 ##### Questions: What does it do?
 My weather app can pull data out from OpenWeatherMap, using my API keys.
