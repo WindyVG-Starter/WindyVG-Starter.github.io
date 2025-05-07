@@ -38,3 +38,8 @@ Sure. My adventure game isn't really your typical game; instead of a playing, ta
 ![Screenshot 2025-05-07 180441](https://github.com/user-attachments/assets/f7c77619-895d-4aad-a2df-cf33e4754b2a)
 The image on top is my start screen of my project; FUN FACT, I'm using a WPF application. 
 NavigationFrame.Navigate(new Start()); is my method of ways of navigating through the screen.
+
+#### Here are some more images from the same project;
+![Screenshot 2025-05-07 185121](https://github.com/user-attachments/assets/fbb4d34a-07ea-459d-9434-698d39aeddba)
+![Screenshot 2025-05-07 185136](https://github.com/user-attachments/assets/132b351a-3276-4aeb-b2c1-0b86461cd2b5)
+
