@@ -25,4 +25,6 @@ One technical detail is the rondom number generator, located in public void Pric
 
 ___________________________________________________________________________________________________________________________________________________________
 ## Windy's CardGame
-
+##### What is the game about? Can you give me a description?
+Windy's Card Game contains 3 card games, it gives the players options to choose which game they can pick and play. Inside, there is Apple or Orange, Higher or Lower, and lastly, Highest Match. Apple or Orange is a game where the player will have to guess if the next card they are gonna draw will be the same or not. Which is what the image below is, the codes;
+![Screenshot 2025-05-07 173542](https://github.com/user-attachments/assets/b11a9cea-e825-4142-a081-4f8675a1d215)
