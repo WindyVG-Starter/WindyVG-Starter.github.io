@@ -33,4 +33,7 @@ One C# feature of this game that is being used is the auto-properties, like the 
 
 __________________________________________________________________________________________________________________________________________________________
 ## Adventure_Game 
-##### Question: 
+##### Question: Care to give me a description of your adventure game?
+Sure. My adventure game isn't really your typical game; instead of a playing, talking to NCP game, it's more of an exploration game. You, still called the player, will choose and pick where locations, which hold a description and ideas of concepts in the games I have in mind. You would be able to view and click certain things for a small interaction.
+![Screenshot 2025-05-07 180441](https://github.com/user-attachments/assets/f7c77619-895d-4aad-a2df-cf33e4754b2a)
+The image on top; shows
